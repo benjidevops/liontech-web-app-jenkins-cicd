@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://52.15.60.3:8081/#admin/repository/repositories:benji-nexus-Snapshot/</url>
+	      <url>http://52.15.60.3:8081/repository/benji-nexus-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
